@@ -10,9 +10,22 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width">
     <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+    <link rel="stylesheet" href="components/jquery.mobile-1.2.0/jquery.mobile-1.2.0.css">
     <link rel="stylesheet" href="styles/main.css">
+
+
+    <script src="components/jquery-1.8.2/index.js"></script>
+    <script src="components/jquery.mobile-1.2.0/jquery.mobile-1.2.0.js"></script>
+    <script src="components/angular/angular.js"></script>
+    <script src="components/angular-resource/angular-resource.js"></script>
+    <script src="components/jquery-mobile-angular-adapter-1.2.1-SNAPSHOT/index.js"></script>
+
+    <!-- build:js scripts/scripts.js -->
+    <script src="scripts/app.js"></script>
+    <script src="scripts/controllers/punt_browser.js"></script>
+    <!-- endbuild -->
   </head>
-  <body ng-app="PuntSpotterApp">
+  <body ng-app="puntSpotter">
     <!--[if lt IE 7]>
       <p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.</p>
     <![endif]-->
@@ -23,16 +36,18 @@
     <![endif]-->
 
     <!-- Add your site or application content here -->
-    <div class="container" ng-view></div>
-
-    <script src="components/angular/angular.js"></script>
-    <script src="components/angular-resource/angular-resource.js"></script>
-    <script src="components/angular-sanitize/angular-sanitize.js"></script>
-
-    <!-- build:js scripts/scripts.js -->
-    <script src="scripts/app.js"></script>
-    <script src="scripts/controllers/main.js"></script>
-    <!-- endbuild -->
+    <div ng-controller="PuntBrowser">
+    <section id="browse" data-role="page">
+      <header data-role="header"> 
+        <h1>Norfolk Punts</h1>
+      </header>
+      <section id="content">
+        <ul>
+          <li ng-repeat="punt in punts">{{punt.name}}</li>
+        </ul>
+      </section>
+    </section>
+  </div>
 
     <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
     <script>
