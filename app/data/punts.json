@@ -1,0 +1,1997 @@
+[
+    {
+        "loa": 22.0, 
+        "year_built": 2008, 
+        "name": "Comet", 
+        "handicap": 908, 
+        "builder": {
+            "name": "G Whitefoot and Sons"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Foam sandwich composite"
+        }, 
+        "design": {
+            "name": "Hardchine", 
+            "designer_id": 2
+        }, 
+        "sail_number": 102, 
+        "slug": "comet-102"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 2004, 
+        "name": "Emperor Goose", 
+        "handicap": 908, 
+        "builder": {
+            "name": "Jeff Green"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Foam sandwich composite"
+        }, 
+        "design": {
+            "name": "Hardchine", 
+            "designer_id": 2
+        }, 
+        "sail_number": 101, 
+        "slug": "emperor-goose-101"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 2004, 
+        "name": "Jackdaw", 
+        "handicap": 880, 
+        "builder": {
+            "name": "Mark Critchley"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Unknown"
+        }, 
+        "design": {
+            "name": "Hardchine", 
+            "designer_id": 2
+        }, 
+        "sail_number": 100, 
+        "slug": "jackdaw-100"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 2004, 
+        "name": "Woodpecker", 
+        "handicap": 908, 
+        "builder": {
+            "name": "Jeff Green"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Foam sandwich composite"
+        }, 
+        "design": {
+            "name": "Hardchine", 
+            "designer_id": 2
+        }, 
+        "sail_number": 99, 
+        "slug": "woodpecker-99"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 2004, 
+        "name": "Redwing", 
+        "handicap": 908, 
+        "builder": {
+            "name": "Jeff Green"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Foam sandwich composite"
+        }, 
+        "design": {
+            "name": "Hardchine", 
+            "designer_id": 2
+        }, 
+        "sail_number": 98, 
+        "slug": "redwing-98"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 2003, 
+        "name": "Great White", 
+        "handicap": 875, 
+        "builder": {
+            "name": "Richard Parker"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Cold-moulded Plywood"
+        }, 
+        "design": {
+            "name": "Morrison", 
+            "designer_id": 3
+        }, 
+        "sail_number": 97, 
+        "slug": "great-white-97"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 2003, 
+        "name": "Snow Goose", 
+        "handicap": 908, 
+        "builder": {
+            "name": "Jeff Green"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Carbon Foam Sandwich (Wooden Decks)"
+        }, 
+        "design": {
+            "name": "Hardchine", 
+            "designer_id": 2
+        }, 
+        "sail_number": 96, 
+        "slug": "snow-goose-96"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 2002, 
+        "name": "White Eagle", 
+        "handicap": 880, 
+        "builder": {
+            "name": "Richard Parker"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Foam sandwich composite"
+        }, 
+        "design": {
+            "name": "Morrison", 
+            "designer_id": 3
+        }, 
+        "sail_number": 95, 
+        "slug": "white-eagle-95"
+    }, 
+    {
+        "loa": null, 
+        "year_built": 2000, 
+        "name": "Whooper", 
+        "handicap": 880, 
+        "builder": {
+            "name": "Unknown"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Cold-moulded Plywood"
+        }, 
+        "design": {
+            "name": "One-off", 
+            "designer_id": 10
+        }, 
+        "sail_number": 94, 
+        "slug": "whooper-94"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 2000, 
+        "name": "Hummingbird", 
+        "handicap": 885, 
+        "builder": {
+            "name": "David Horne"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Cold-moulded Plywood"
+        }, 
+        "design": {
+            "name": "Horne", 
+            "designer_id": 9
+        }, 
+        "sail_number": 93, 
+        "slug": "hummingbird-93"
+    }, 
+    {
+        "loa": 19.0, 
+        "year_built": 1999, 
+        "name": "Flamingo", 
+        "handicap": 885, 
+        "builder": {
+            "name": "David Horne"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Cold-moulded Plywood"
+        }, 
+        "design": {
+            "name": "Horne", 
+            "designer_id": 9
+        }, 
+        "sail_number": 92, 
+        "slug": "flamingo-92"
+    }, 
+    {
+        "loa": 20.0, 
+        "year_built": 1995, 
+        "name": "Cuckoo", 
+        "handicap": 908, 
+        "builder": {
+            "name": "Fabian Bush"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Clinker Plywood"
+        }, 
+        "design": {
+            "name": "Bush", 
+            "designer_id": 8
+        }, 
+        "sail_number": 91, 
+        "slug": "cuckoo-91"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1995, 
+        "name": "Saker", 
+        "handicap": 880, 
+        "builder": {
+            "name": "Mike and Thomas Virden"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Cold-moulded Plywood"
+        }, 
+        "design": {
+            "name": "Morrison", 
+            "designer_id": 3
+        }, 
+        "sail_number": 90, 
+        "slug": "saker-90"
+    }, 
+    {
+        "loa": 20.0, 
+        "year_built": 1994, 
+        "name": "Goosander", 
+        "handicap": 926, 
+        "builder": {
+            "name": "Fabian Bush"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Clinker Plywood"
+        }, 
+        "design": {
+            "name": "Bush", 
+            "designer_id": 8
+        }, 
+        "sail_number": 89, 
+        "slug": "goosander-89"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1993, 
+        "name": "Cormorant", 
+        "handicap": 880, 
+        "builder": {
+            "name": "M Morrison"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Cold-moulded Plywood"
+        }, 
+        "design": {
+            "name": "Morrison", 
+            "designer_id": 3
+        }, 
+        "sail_number": 88, 
+        "slug": "cormorant-88"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1993, 
+        "name": "Shag", 
+        "handicap": 880, 
+        "builder": {
+            "name": "Tony O'Connor, South River Marine, St Olaves"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Cold-moulded Plywood"
+        }, 
+        "design": {
+            "name": "Morrison", 
+            "designer_id": 3
+        }, 
+        "sail_number": 87, 
+        "slug": "shag-87"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1993, 
+        "name": "Peregrine", 
+        "handicap": 875, 
+        "builder": {
+            "name": "Richard Parker, Robert Snelling and T Hubbard"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Cold-moulded Plywood"
+        }, 
+        "design": {
+            "name": "Morrison", 
+            "designer_id": 3
+        }, 
+        "sail_number": 86, 
+        "slug": "peregrine-86"
+    }, 
+    {
+        "loa": 20.0, 
+        "year_built": 1991, 
+        "name": "Scoot", 
+        "handicap": 984, 
+        "builder": {
+            "name": "Fabian Bush"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Clinker Plywood"
+        }, 
+        "design": {
+            "name": "Bush", 
+            "designer_id": 8
+        }, 
+        "sail_number": 85, 
+        "slug": "scoot-85"
+    }, 
+    {
+        "loa": 20.5, 
+        "year_built": 1991, 
+        "name": "Swift", 
+        "handicap": null, 
+        "builder": {
+            "name": "Matthew Thwaites"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Unknown"
+        }, 
+        "design": {
+            "name": "One-off", 
+            "designer_id": 7
+        }, 
+        "sail_number": 84, 
+        "slug": "swift-84"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1991, 
+        "name": "Honey Buzzard", 
+        "handicap": 880, 
+        "builder": {
+            "name": "T Hubbard"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Composite"
+        }, 
+        "design": {
+            "name": "Morrison", 
+            "designer_id": 3
+        }, 
+        "sail_number": 83, 
+        "slug": "honey-buzzard-83"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1991, 
+        "name": "Merlin", 
+        "handicap": 880, 
+        "builder": {
+            "name": "Richard Parker"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Foam/Carbon/Kevlar with Plywood deck"
+        }, 
+        "design": {
+            "name": "Morrison", 
+            "designer_id": 3
+        }, 
+        "sail_number": 82, 
+        "slug": "merlin-82"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1991, 
+        "name": "Grayling", 
+        "handicap": 908, 
+        "builder": {
+            "name": "Colin McDougall"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Fibreglass"
+        }, 
+        "design": {
+            "name": "Hardchine", 
+            "designer_id": 2
+        }, 
+        "sail_number": 81, 
+        "slug": "grayling-81"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1991, 
+        "name": "Dabchick", 
+        "handicap": 908, 
+        "builder": {
+            "name": "Colin McDougall"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Fibreglass"
+        }, 
+        "design": {
+            "name": "Hardchine", 
+            "designer_id": 2
+        }, 
+        "sail_number": 80, 
+        "slug": "dabchick-80"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1990, 
+        "name": "Hushwing", 
+        "handicap": 880, 
+        "builder": {
+            "name": "Matthew Thwaites"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "GRP / Foan sandwich"
+        }, 
+        "design": {
+            "name": "Morrison", 
+            "designer_id": 3
+        }, 
+        "sail_number": 79, 
+        "slug": "hushwing-79"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1990, 
+        "name": "Firebird", 
+        "handicap": null, 
+        "builder": {
+            "name": "Richard Parker"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Unknown"
+        }, 
+        "design": {
+            "name": "Hardchine", 
+            "designer_id": 2
+        }, 
+        "sail_number": 78, 
+        "slug": "firebird-78"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1989, 
+        "name": "Rhode Island Red", 
+        "handicap": 880, 
+        "builder": {
+            "name": "Matthew Thwaites"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Foam sandwich composite"
+        }, 
+        "design": {
+            "name": "Morrison", 
+            "designer_id": 3
+        }, 
+        "sail_number": 77, 
+        "slug": "rhode-island-red-77"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1989, 
+        "name": "Kookaburra", 
+        "handicap": 908, 
+        "builder": {
+            "name": "M Hardy"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Fibreglass"
+        }, 
+        "design": {
+            "name": "Hardchine", 
+            "designer_id": 2
+        }, 
+        "sail_number": 76, 
+        "slug": "kookaburra-76"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1989, 
+        "name": "Rainbow Trout", 
+        "handicap": 908, 
+        "builder": {
+            "name": "Unknown"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Fibreglass"
+        }, 
+        "design": {
+            "name": "Hardchine", 
+            "designer_id": 2
+        }, 
+        "sail_number": 75, 
+        "slug": "rainbow-trout-75"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1989, 
+        "name": "Blackbird", 
+        "handicap": 875, 
+        "builder": {
+            "name": "S. Read"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Cold-moulded Plywood"
+        }, 
+        "design": {
+            "name": "Morrison", 
+            "designer_id": 3
+        }, 
+        "sail_number": 74, 
+        "slug": "blackbird-74"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1985, 
+        "name": "Razorbill", 
+        "handicap": 880, 
+        "builder": {
+            "name": "D Saunders"
+        }, 
+        "previous_names": "Reedham Nan (1985 - 1987)", 
+        "construction": {
+            "name": "Plywood"
+        }, 
+        "design": {
+            "name": "One-off", 
+            "designer_id": 6
+        }, 
+        "sail_number": 73, 
+        "slug": "razorbill-73"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1981, 
+        "name": "Dipper", 
+        "handicap": 908, 
+        "builder": {
+            "name": "Colin McDougall"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Fibreglass"
+        }, 
+        "design": {
+            "name": "Hardchine", 
+            "designer_id": 2
+        }, 
+        "sail_number": 72, 
+        "slug": "dipper-72"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1980, 
+        "name": "Swift", 
+        "handicap": null, 
+        "builder": {
+            "name": "Colin McDougall"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Fibreglass"
+        }, 
+        "design": {
+            "name": "Hardchine", 
+            "designer_id": 2
+        }, 
+        "sail_number": 71, 
+        "slug": "swift-71"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1980, 
+        "name": "Barnacle Goose", 
+        "handicap": 908, 
+        "builder": {
+            "name": "Colin McDougall"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Composite"
+        }, 
+        "design": {
+            "name": "Hardchine", 
+            "designer_id": 2
+        }, 
+        "sail_number": 70, 
+        "slug": "barnacle-goose-70"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1978, 
+        "name": "Marsh Harrier", 
+        "handicap": 908, 
+        "builder": {
+            "name": "Colin McDougall"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Fibreglass"
+        }, 
+        "design": {
+            "name": "Hardchine", 
+            "designer_id": 2
+        }, 
+        "sail_number": 69, 
+        "slug": "marsh-harrier-69"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1978, 
+        "name": "Ogo", 
+        "handicap": 908, 
+        "builder": {
+            "name": "J V de B Grey"
+        }, 
+        "previous_names": "Swordfish", 
+        "construction": {
+            "name": "Plywood"
+        }, 
+        "design": {
+            "name": "Hardchine", 
+            "designer_id": 2
+        }, 
+        "sail_number": 68, 
+        "slug": "ogo-68"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1977, 
+        "name": "Swallowtail", 
+        "handicap": 908, 
+        "builder": {
+            "name": "Colin McDougall"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Fibreglass"
+        }, 
+        "design": {
+            "name": "Hardchine", 
+            "designer_id": 2
+        }, 
+        "sail_number": 67, 
+        "slug": "swallowtail-67"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1978, 
+        "name": "Grebe", 
+        "handicap": 908, 
+        "builder": {
+            "name": "Colin McDougall"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Fibreglass"
+        }, 
+        "design": {
+            "name": "Hardchine", 
+            "designer_id": 2
+        }, 
+        "sail_number": 66, 
+        "slug": "grebe-66"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1978, 
+        "name": "Reed Bunting", 
+        "handicap": 908, 
+        "builder": {
+            "name": "S F Read"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Plywood"
+        }, 
+        "design": {
+            "name": "Hardchine", 
+            "designer_id": 2
+        }, 
+        "sail_number": 65, 
+        "slug": "reed-bunting-65"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1977, 
+        "name": "Garganey", 
+        "handicap": 908, 
+        "builder": {
+            "name": "Colin McDougall"
+        }, 
+        "previous_names": "Golden Jubilee (1977 - 1989)", 
+        "construction": {
+            "name": "Fibreglass"
+        }, 
+        "design": {
+            "name": "Hardchine", 
+            "designer_id": 2
+        }, 
+        "sail_number": 64, 
+        "slug": "garganey-64"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1976, 
+        "name": "Bittern", 
+        "handicap": null, 
+        "builder": {
+            "name": "J V de B Grey"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Plywood"
+        }, 
+        "design": {
+            "name": "Hardchine", 
+            "designer_id": 2
+        }, 
+        "sail_number": 63, 
+        "slug": "bittern-63"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1976, 
+        "name": "Hobby", 
+        "handicap": 908, 
+        "builder": {
+            "name": "R McDonald Cobb"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Plywood"
+        }, 
+        "design": {
+            "name": "Hardchine", 
+            "designer_id": 2
+        }, 
+        "sail_number": 62, 
+        "slug": "hobby-62"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1975, 
+        "name": "Shoveller", 
+        "handicap": 908, 
+        "builder": {
+            "name": "Derek Gibbs"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Plywood"
+        }, 
+        "design": {
+            "name": "Hardchine", 
+            "designer_id": 2
+        }, 
+        "sail_number": 61, 
+        "slug": "shoveller-61"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1972, 
+        "name": "Lady Sylvia", 
+        "handicap": 908, 
+        "builder": {
+            "name": "J E Mockett"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Plywood"
+        }, 
+        "design": {
+            "name": "Hardchine", 
+            "designer_id": 2
+        }, 
+        "sail_number": 60, 
+        "slug": "lady-sylvia-60"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1972, 
+        "name": "Firefly", 
+        "handicap": 908, 
+        "builder": {
+            "name": "J V de B Grey"
+        }, 
+        "previous_names": "Flounder (1972 - 1987)", 
+        "construction": {
+            "name": "Plywood"
+        }, 
+        "design": {
+            "name": "Hardchine", 
+            "designer_id": 2
+        }, 
+        "sail_number": 59, 
+        "slug": "firefly-59"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1972, 
+        "name": "Willow", 
+        "handicap": 908, 
+        "builder": {
+            "name": "T E Ward"
+        }, 
+        "previous_names": "ANAS ACUTA (1978 - 1980)", 
+        "construction": {
+            "name": "Plywood"
+        }, 
+        "design": {
+            "name": "Hardchine", 
+            "designer_id": 2
+        }, 
+        "sail_number": 58, 
+        "slug": "willow-58"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1970, 
+        "name": "Avocet", 
+        "handicap": 908, 
+        "builder": {
+            "name": "J H Scott"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Plywood"
+        }, 
+        "design": {
+            "name": "Hardchine", 
+            "designer_id": 2
+        }, 
+        "sail_number": 57, 
+        "slug": "avocet-57"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1966, 
+        "name": "Puffin", 
+        "handicap": null, 
+        "builder": {
+            "name": "T E Carter"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Plywood"
+        }, 
+        "design": {
+            "name": "Hardchine", 
+            "designer_id": 2
+        }, 
+        "sail_number": 56, 
+        "slug": "puffin-56"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1963, 
+        "name": "Kingfisher", 
+        "handicap": 908, 
+        "builder": {
+            "name": "T E Harmer"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Plywood"
+        }, 
+        "design": {
+            "name": "Hardchine", 
+            "designer_id": 2
+        }, 
+        "sail_number": 55, 
+        "slug": "kingfisher-55"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1963, 
+        "name": "Tern", 
+        "handicap": 908, 
+        "builder": {
+            "name": "Eastwood and Whelpton of Upton"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Plywood"
+        }, 
+        "design": {
+            "name": "Hardchine", 
+            "designer_id": 2
+        }, 
+        "sail_number": 54, 
+        "slug": "tern-54"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1962, 
+        "name": "Wild Goose", 
+        "handicap": 908, 
+        "builder": {
+            "name": "Eastwood and Whelpton of Upton"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Plywood"
+        }, 
+        "design": {
+            "name": "Hardchine", 
+            "designer_id": 2
+        }, 
+        "sail_number": 53, 
+        "slug": "wild-goose-53"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1961, 
+        "name": "Wild Duck", 
+        "handicap": 908, 
+        "builder": {
+            "name": "Eastwood and Whelpton of Upton"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Plywood"
+        }, 
+        "design": {
+            "name": "Hardchine", 
+            "designer_id": 2
+        }, 
+        "sail_number": 52, 
+        "slug": "wild-duck-52"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1961, 
+        "name": "Harnser", 
+        "handicap": 908, 
+        "builder": {
+            "name": "Eastwood and Whelpton of Upton"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Plywood"
+        }, 
+        "design": {
+            "name": "Hardchine", 
+            "designer_id": 2
+        }, 
+        "sail_number": 51, 
+        "slug": "harnser-51"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1958, 
+        "name": "Greylag", 
+        "handicap": 908, 
+        "builder": {
+            "name": "T E Harmer"
+        }, 
+        "previous_names": "Flamer (1958 - 1967)", 
+        "construction": {
+            "name": "Plywood"
+        }, 
+        "design": {
+            "name": "Hardchine", 
+            "designer_id": 2
+        }, 
+        "sail_number": 50, 
+        "slug": "greylag-50"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1957, 
+        "name": "Snark", 
+        "handicap": 908, 
+        "builder": {
+            "name": "E Landamore"
+        }, 
+        "previous_names": "Teal (1978 - 1994)", 
+        "construction": {
+            "name": "Plywood"
+        }, 
+        "design": {
+            "name": "Hardchine", 
+            "designer_id": 2
+        }, 
+        "sail_number": 49, 
+        "slug": "snark-49"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1954, 
+        "name": "Melanitta", 
+        "handicap": 908, 
+        "builder": {
+            "name": "C.R. Wyche and D. Coppock of Trent"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Plywood"
+        }, 
+        "design": {
+            "name": "Hardchine", 
+            "designer_id": 2
+        }, 
+        "sail_number": 48, 
+        "slug": "melanitta-48"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1953, 
+        "name": "Scoter", 
+        "handicap": 908, 
+        "builder": {
+            "name": "C.R. Wyche and D. Coppock of Trent"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Plywood"
+        }, 
+        "design": {
+            "name": "Hardchine", 
+            "designer_id": 2
+        }, 
+        "sail_number": 47, 
+        "slug": "scoter-47"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1947, 
+        "name": "Martin", 
+        "handicap": 994, 
+        "builder": {
+            "name": "Martham Boatbuilding Co."
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Wood (Carvel)"
+        }, 
+        "design": {
+            "name": "Traditional", 
+            "designer_id": 4
+        }, 
+        "sail_number": 46, 
+        "slug": "martin-46"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1939, 
+        "name": "Limelight", 
+        "handicap": 984, 
+        "builder": {
+            "name": "Herbert Woods of Potter Heigham"
+        }, 
+        "previous_names": "Whimbrel (1974 - ?)", 
+        "construction": {
+            "name": "Wood (Carvel)"
+        }, 
+        "design": {
+            "name": "Traditional", 
+            "designer_id": 4
+        }, 
+        "sail_number": 45, 
+        "slug": "limelight-45"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1939, 
+        "name": "Kipper", 
+        "handicap": 1013, 
+        "builder": {
+            "name": "Herbert Woods of Potter Heigham"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Wood (Carvel)"
+        }, 
+        "design": {
+            "name": "Traditional", 
+            "designer_id": 4
+        }, 
+        "sail_number": 44, 
+        "slug": "kipper-44"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1939, 
+        "name": "Curlew", 
+        "handicap": 984, 
+        "builder": {
+            "name": "Herbert Woods of Potter Heigham"
+        }, 
+        "previous_names": "Bloater (1939 -1948) Dark Lady (1948 -1953)", 
+        "construction": {
+            "name": "Wood (Carvel)"
+        }, 
+        "design": {
+            "name": "Traditional", 
+            "designer_id": 4
+        }, 
+        "sail_number": 43, 
+        "slug": "curlew-43"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1938, 
+        "name": "Lady Pamela", 
+        "handicap": null, 
+        "builder": {
+            "name": "Frank Beeching of Gt Yarmouth"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Wood (Carvel)"
+        }, 
+        "design": {
+            "name": "Traditional", 
+            "designer_id": 4
+        }, 
+        "sail_number": 42, 
+        "slug": "lady-pamela-42"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1937, 
+        "name": "Didler", 
+        "handicap": 1013, 
+        "builder": {
+            "name": "R D H Harmer"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Wood (Carvel)"
+        }, 
+        "design": {
+            "name": "Traditional", 
+            "designer_id": 4
+        }, 
+        "sail_number": 41, 
+        "slug": "didler-41"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1937, 
+        "name": "Decoy", 
+        "handicap": 1003, 
+        "builder": {
+            "name": "H T Percival of Horning"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Wood (Carvel)"
+        }, 
+        "design": {
+            "name": "Traditional", 
+            "designer_id": 4
+        }, 
+        "sail_number": 40, 
+        "slug": "decoy-40"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1937, 
+        "name": "Widgeon", 
+        "handicap": null, 
+        "builder": {
+            "name": "W F Jermy of Brundall"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Wood (Carvel)"
+        }, 
+        "design": {
+            "name": "Traditional", 
+            "designer_id": 4
+        }, 
+        "sail_number": 39, 
+        "slug": "widgeon-39"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1936, 
+        "name": "Sandpiper", 
+        "handicap": 1013, 
+        "builder": {
+            "name": "J S Neal"
+        }, 
+        "previous_names": "Sprat (until 1949)", 
+        "construction": {
+            "name": "Wood (Carvel)"
+        }, 
+        "design": {
+            "name": "Traditional", 
+            "designer_id": 4
+        }, 
+        "sail_number": 38, 
+        "slug": "sandpiper-38"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1936, 
+        "name": "Gamecock", 
+        "handicap": 994, 
+        "builder": {
+            "name": "H T Percival of Horning"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Wood (Clinker)"
+        }, 
+        "design": {
+            "name": "Traditional", 
+            "designer_id": 4
+        }, 
+        "sail_number": 37, 
+        "slug": "gamecock-37"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1936, 
+        "name": "Rosybill", 
+        "handicap": 1013, 
+        "builder": {
+            "name": "W F Jermy of Brundall"
+        }, 
+        "previous_names": "Ariel (1947-8) Woodpecker(1948-9)", 
+        "construction": {
+            "name": "Wood (Carvel)"
+        }, 
+        "design": {
+            "name": "Traditional", 
+            "designer_id": 4
+        }, 
+        "sail_number": 36, 
+        "slug": "rosybill-36"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1936, 
+        "name": "Swallow II", 
+        "handicap": 936, 
+        "builder": {
+            "name": "Herbert Woods of Potter Heigham"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Wood (Carvel)"
+        }, 
+        "design": {
+            "name": "Traditional", 
+            "designer_id": 4
+        }, 
+        "sail_number": 35, 
+        "slug": "swallow-ii-35"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1934, 
+        "name": "Blue Dar", 
+        "handicap": null, 
+        "builder": {
+            "name": "W Mollett"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Wood (Carvel)"
+        }, 
+        "design": {
+            "name": "Traditional", 
+            "designer_id": 4
+        }, 
+        "sail_number": 34, 
+        "slug": "blue-dar-34"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1934, 
+        "name": "Sardine", 
+        "handicap": 994, 
+        "builder": {
+            "name": "Herbert Woods of Potter Heigham"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Wood (Carvel)"
+        }, 
+        "design": {
+            "name": "Traditional", 
+            "designer_id": 4
+        }, 
+        "sail_number": 33, 
+        "slug": "sardine-33"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1933, 
+        "name": "Cavender", 
+        "handicap": 974, 
+        "builder": {
+            "name": "W Mollett"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Wood (Carvel)"
+        }, 
+        "design": {
+            "name": "Traditional", 
+            "designer_id": 4
+        }, 
+        "sail_number": 32, 
+        "slug": "cavender-32"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1933, 
+        "name": "Mickey", 
+        "handicap": null, 
+        "builder": {
+            "name": "Herbert Woods of Potter Heigham"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Wood (Carvel)"
+        }, 
+        "design": {
+            "name": "Traditional", 
+            "designer_id": 4
+        }, 
+        "sail_number": 31, 
+        "slug": "mickey-31"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1933, 
+        "name": "Dodman", 
+        "handicap": null, 
+        "builder": {
+            "name": "Herbert Woods of Potter Heigham"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Wood (Carvel)"
+        }, 
+        "design": {
+            "name": "Traditional", 
+            "designer_id": 4
+        }, 
+        "sail_number": 30, 
+        "slug": "dodman-30"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1933, 
+        "name": "Stannicle", 
+        "handicap": 1013, 
+        "builder": {
+            "name": "E Chamberlain"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Wood (Carvel)"
+        }, 
+        "design": {
+            "name": "Traditional", 
+            "designer_id": 4
+        }, 
+        "sail_number": 29, 
+        "slug": "stannicle-29"
+    }, 
+    {
+        "loa": 20.0, 
+        "year_built": 1931, 
+        "name": "Shuck", 
+        "handicap": 1023, 
+        "builder": {
+            "name": "W Mollett"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Wood (Clinker)"
+        }, 
+        "design": {
+            "name": "Traditional", 
+            "designer_id": 4
+        }, 
+        "sail_number": 28, 
+        "slug": "shuck-28"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1930, 
+        "name": "Rushlight", 
+        "handicap": 1003, 
+        "builder": {
+            "name": "Herbert Woods of Potter Heigham"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Wood (Carvel)"
+        }, 
+        "design": {
+            "name": "Traditional", 
+            "designer_id": 4
+        }, 
+        "sail_number": 27, 
+        "slug": "rushlight-27"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1931, 
+        "name": "Spotlight", 
+        "handicap": null, 
+        "builder": {
+            "name": "Herbert Woods of Potter Heigham"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Wood (Carvel)"
+        }, 
+        "design": {
+            "name": "Traditional", 
+            "designer_id": 4
+        }, 
+        "sail_number": 26, 
+        "slug": "spotlight-26"
+    }, 
+    {
+        "loa": 20.0, 
+        "year_built": 1930, 
+        "name": "Snipe", 
+        "handicap": null, 
+        "builder": {
+            "name": "C A Grimes"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Wood (Carvel)"
+        }, 
+        "design": {
+            "name": "Traditional", 
+            "designer_id": 4
+        }, 
+        "sail_number": 25, 
+        "slug": "snipe-25"
+    }, 
+    {
+        "loa": 20.0, 
+        "year_built": 1928, 
+        "name": "Goldeneye", 
+        "handicap": 1023, 
+        "builder": {
+            "name": "C J Broom of Brundall"
+        }, 
+        "previous_names": "Scoter", 
+        "construction": {
+            "name": "Wood (Carvel)"
+        }, 
+        "design": {
+            "name": "Traditional", 
+            "designer_id": 4
+        }, 
+        "sail_number": 25, 
+        "slug": "goldeneye-25"
+    }, 
+    {
+        "loa": 20.0, 
+        "year_built": 1930, 
+        "name": "Heron", 
+        "handicap": null, 
+        "builder": {
+            "name": "E Chamberlain"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Wood (Carvel)"
+        }, 
+        "design": {
+            "name": "Traditional", 
+            "designer_id": 4
+        }, 
+        "sail_number": 24, 
+        "slug": "heron-24"
+    }, 
+    {
+        "loa": 20.0, 
+        "year_built": 1930, 
+        "name": "Sparkle", 
+        "handicap": null, 
+        "builder": {
+            "name": "Dr Boreham Trent"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Wood (Carvel)"
+        }, 
+        "design": {
+            "name": "Traditional", 
+            "designer_id": 4
+        }, 
+        "sail_number": 23, 
+        "slug": "sparkle-23"
+    }, 
+    {
+        "loa": 20.0, 
+        "year_built": 1922, 
+        "name": "Scoulton Cob", 
+        "handicap": null, 
+        "builder": {
+            "name": "C J Broom of Brundall"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Wood (Carvel)"
+        }, 
+        "design": {
+            "name": "Traditional", 
+            "designer_id": 4
+        }, 
+        "sail_number": 22, 
+        "slug": "scoulton-cob-22"
+    }, 
+    {
+        "loa": 20.0, 
+        "year_built": 1929, 
+        "name": "Flight", 
+        "handicap": 1059, 
+        "builder": {
+            "name": "Herbert Woods of Potter Heigham"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Wood (Carvel)"
+        }, 
+        "design": {
+            "name": "Traditional", 
+            "designer_id": 4
+        }, 
+        "sail_number": 21, 
+        "slug": "flight-21"
+    }, 
+    {
+        "loa": 16.0, 
+        "year_built": 1930, 
+        "name": "Stint", 
+        "handicap": null, 
+        "builder": {
+            "name": "Uffa Fox at Cowes"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Wood (Carvel)"
+        }, 
+        "design": {
+            "name": "Traditional", 
+            "designer_id": 4
+        }, 
+        "sail_number": 20, 
+        "slug": "stint-20"
+    }, 
+    {
+        "loa": 20.0, 
+        "year_built": 1918, 
+        "name": "Prawn", 
+        "handicap": 1070, 
+        "builder": {
+            "name": "W G Woods of Potter Heigham"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Wood (Carvel)"
+        }, 
+        "design": {
+            "name": "Traditional", 
+            "designer_id": 11
+        }, 
+        "sail_number": 19, 
+        "slug": "prawn-19"
+    }, 
+    {
+        "loa": 20.0, 
+        "year_built": 1929, 
+        "name": "Winkle", 
+        "handicap": null, 
+        "builder": {
+            "name": "R Southgate of Horning"
+        }, 
+        "previous_names": "Privateer", 
+        "construction": {
+            "name": "Wood (Carvel)"
+        }, 
+        "design": {
+            "name": "Traditional", 
+            "designer_id": 4
+        }, 
+        "sail_number": 18, 
+        "slug": "winkle-18"
+    }, 
+    {
+        "loa": 20.0, 
+        "year_built": 1929, 
+        "name": "Stickleback", 
+        "handicap": 1059, 
+        "builder": {
+            "name": "Peter Arnold"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Wood (Carvel)"
+        }, 
+        "design": {
+            "name": "Traditional", 
+            "designer_id": 4
+        }, 
+        "sail_number": 17, 
+        "slug": "stickleback-17"
+    }, 
+    {
+        "loa": 19.0, 
+        "year_built": 1929, 
+        "name": "Snipe", 
+        "handicap": null, 
+        "builder": {
+            "name": "H C Banham"
+        }, 
+        "previous_names": "Harrier", 
+        "construction": {
+            "name": "Wood (Carvel)"
+        }, 
+        "design": {
+            "name": "Traditional", 
+            "designer_id": 4
+        }, 
+        "sail_number": 16, 
+        "slug": "snipe-16"
+    }, 
+    {
+        "loa": null, 
+        "year_built": 1930, 
+        "name": "Tadpole", 
+        "handicap": null, 
+        "builder": {
+            "name": "Unknown"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Wood (Carvel)"
+        }, 
+        "design": {
+            "name": "Traditional", 
+            "designer_id": 4
+        }, 
+        "sail_number": 15, 
+        "slug": "tadpole-15"
+    }, 
+    {
+        "loa": 20.0, 
+        "year_built": 1929, 
+        "name": "Pintail", 
+        "handicap": null, 
+        "builder": {
+            "name": "W F Jermy of Brundall"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Wood (Carvel)"
+        }, 
+        "design": {
+            "name": "Traditional", 
+            "designer_id": 4
+        }, 
+        "sail_number": 14, 
+        "slug": "pintail-14"
+    }, 
+    {
+        "loa": 20.0, 
+        "year_built": 1928, 
+        "name": "Swift", 
+        "handicap": null, 
+        "builder": {
+            "name": "W G Woods of Potter Heigham"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Wood (Carvel)"
+        }, 
+        "design": {
+            "name": "Traditional", 
+            "designer_id": 4
+        }, 
+        "sail_number": 13, 
+        "slug": "swift-13"
+    }, 
+    {
+        "loa": 19.0, 
+        "year_built": 1929, 
+        "name": "Smee", 
+        "handicap": null, 
+        "builder": {
+            "name": "Unknown"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Wood (Carvel)"
+        }, 
+        "design": {
+            "name": "Traditional", 
+            "designer_id": 4
+        }, 
+        "sail_number": 12, 
+        "slug": "smee-12"
+    }, 
+    {
+        "loa": 20.0, 
+        "year_built": 1930, 
+        "name": "Hicky", 
+        "handicap": null, 
+        "builder": {
+            "name": "Unknown"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Wood (Carvel)"
+        }, 
+        "design": {
+            "name": "Traditional", 
+            "designer_id": 4
+        }, 
+        "sail_number": 11, 
+        "slug": "hicky-11"
+    }, 
+    {
+        "loa": 20.0, 
+        "year_built": 1928, 
+        "name": "Mallard", 
+        "handicap": null, 
+        "builder": {
+            "name": "Unknown"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Wood (Carvel)"
+        }, 
+        "design": {
+            "name": "Traditional", 
+            "designer_id": 4
+        }, 
+        "sail_number": 10, 
+        "slug": "mallard-10"
+    }, 
+    {
+        "loa": 19.0, 
+        "year_built": 1927, 
+        "name": "Saw Bill", 
+        "handicap": null, 
+        "builder": {
+            "name": "W G Woods of Potter Heigham"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Wood (Carvel)"
+        }, 
+        "design": {
+            "name": "Traditional", 
+            "designer_id": 4
+        }, 
+        "sail_number": 9, 
+        "slug": "saw-bill-9"
+    }, 
+    {
+        "loa": 17.0, 
+        "year_built": 1926, 
+        "name": "Trout", 
+        "handicap": null, 
+        "builder": {
+            "name": "W G Woods of Potter Heigham"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Wood (Carvel)"
+        }, 
+        "design": {
+            "name": "Traditional", 
+            "designer_id": 4
+        }, 
+        "sail_number": 8, 
+        "slug": "trout-8"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1909, 
+        "name": "Pochard", 
+        "handicap": null, 
+        "builder": {
+            "name": "Earnest Woods of Cantley"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Wood (Carvel)"
+        }, 
+        "design": {
+            "name": "Traditional", 
+            "designer_id": 4
+        }, 
+        "sail_number": 7, 
+        "slug": "pochard-7"
+    }, 
+    {
+        "loa": 20.0, 
+        "year_built": 1926, 
+        "name": "Reed Pheasant", 
+        "handicap": null, 
+        "builder": {
+            "name": "W G Woods of Potter Heigham"
+        }, 
+        "previous_names": "Swallow (to 1936) Titmouse (to 1947)", 
+        "construction": {
+            "name": "Wood (Carvel)"
+        }, 
+        "design": {
+            "name": "Traditional", 
+            "designer_id": 4
+        }, 
+        "sail_number": 6, 
+        "slug": "reed-pheasant-6"
+    }, 
+    {
+        "loa": 18.0, 
+        "year_built": 1927, 
+        "name": "Scud", 
+        "handicap": null, 
+        "builder": {
+            "name": "Unknown"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Wood (Carvel)"
+        }, 
+        "design": {
+            "name": "Traditional", 
+            "designer_id": 4
+        }, 
+        "sail_number": 5, 
+        "slug": "scud-5"
+    }, 
+    {
+        "loa": 22.0, 
+        "year_built": 1925, 
+        "name": "Venture", 
+        "handicap": null, 
+        "builder": {
+            "name": "W F Jermy of Brundall"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Wood (Carvel)"
+        }, 
+        "design": {
+            "name": "Traditional", 
+            "designer_id": 4
+        }, 
+        "sail_number": 4, 
+        "slug": "venture-4"
+    }, 
+    {
+        "loa": 20.0, 
+        "year_built": 1929, 
+        "name": "Bittern", 
+        "handicap": null, 
+        "builder": {
+            "name": "A E Pegg of Wroxham"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Wood (Carvel)"
+        }, 
+        "design": {
+            "name": "Traditional", 
+            "designer_id": 4
+        }, 
+        "sail_number": 3, 
+        "slug": "bittern-3"
+    }, 
+    {
+        "loa": 19.0, 
+        "year_built": 1927, 
+        "name": "Jenny Spinner", 
+        "handicap": null, 
+        "builder": {
+            "name": "R Southgate of Horning"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Wood (Carvel)"
+        }, 
+        "design": {
+            "name": "Traditional", 
+            "designer_id": 4
+        }, 
+        "sail_number": 2, 
+        "slug": "jenny-spinner-2"
+    }, 
+    {
+        "loa": 17.0, 
+        "year_built": 1916, 
+        "name": "Shrimp", 
+        "handicap": null, 
+        "builder": {
+            "name": "W G Woods of Potter Heigham"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Wood (Carvel)"
+        }, 
+        "design": {
+            "name": "Traditional", 
+            "designer_id": 4
+        }, 
+        "sail_number": 1, 
+        "slug": "shrimp-1"
+    }, 
+    {
+        "loa": 20.0, 
+        "year_built": 1936, 
+        "name": "Blue Winged Olive", 
+        "handicap": null, 
+        "builder": {
+            "name": "Unknown"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Wood (Carvel)"
+        }, 
+        "design": {
+            "name": "Traditional", 
+            "designer_id": 4
+        }, 
+        "sail_number": 0, 
+        "slug": "blue-winged-olive-0"
+    }, 
+    {
+        "loa": null, 
+        "year_built": 1936, 
+        "name": "Sanderling", 
+        "handicap": null, 
+        "builder": {
+            "name": "Unknown"
+        }, 
+        "previous_names": "", 
+        "construction": {
+            "name": "Wood (Carvel)"
+        }, 
+        "design": {
+            "name": "Traditional", 
+            "designer_id": 4
+        }, 
+        "sail_number": 0, 
+        "slug": "sanderling-0"
+    }
+]
