@@ -7,5 +7,4 @@ angular.module('puntSpotter')
 	$http.get('data/punts.json').success(function(data) {
 		$scope.punts = data;
 	});
-  	//$scope.punts = [{name:"one"},{name:"two"},{name:"three"}];
   });

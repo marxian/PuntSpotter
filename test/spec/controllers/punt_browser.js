@@ -22,6 +22,7 @@ describe('Controller: PuntBrowser', function () {
   }));
 
   it('should attach a list of punts to the scope', function () {
+    
     $httpBackend.flush();
     expect(scope.punts.length).toBe(3);
   });

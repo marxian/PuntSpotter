@@ -1,14 +1,12 @@
 'use strict';
 
-
-
 angular.module('puntSpotter', [])
   .config(function ($routeProvider) {
     $routeProvider
       .when('/', {
-        templateUrl: '#browse'
+        templateUrl: '#browse' 
       })
-      .otherwise({
-        redirectTo: '/'
+      .when('/boat', {
+        templateUrl: '#boat'
       });
   });

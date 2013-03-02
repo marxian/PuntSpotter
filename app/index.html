@@ -20,12 +20,14 @@
     <script src="components/angular-resource/angular-resource.js"></script>
     <script src="components/jquery-mobile-angular-adapter-1.2.1-SNAPSHOT/index.js"></script>
 
-    <!-- build:js scripts/scripts.js -->
+    
     <script src="scripts/app.js"></script>
     <script src="scripts/controllers/punt_browser.js"></script>
+
+    <!-- build:js scripts/scripts.js -->
     <!-- endbuild -->
   </head>
-  <body ng-app="puntSpotter">
+  <body data-ng-app="puntSpotter">
     <!--[if lt IE 7]>
       <p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.</p>
     <![endif]-->
@@ -36,16 +38,22 @@
     <![endif]-->
 
     <!-- Add your site or application content here -->
-    <div ng-controller="PuntBrowser">
-    <section id="browse" data-role="page">
+    <div data-ng-controller="PuntBrowser">
+    <section id="browse" data-role="page" data-theme="a" class="punt-browser" data-ngm-pagebeforeshow="loadPunts()">
       <header data-role="header"> 
         <h1>Norfolk Punts</h1>
       </header>
-      <section id="content">
-        <ul>
-          <li ng-repeat="punt in punts">{{punt.name}}</li>
+      <div data-role="content">
+        <ul data-role="listview" data-inset="true">
+          <li data-ng-repeat="punt in punts">
+            <a href="#">
+              <img data-ng-src="{{punt.image_data_uri}}"/>
+              <h2>{{punt.name}}</h2>
+              <p>{{punt.builder.name}}</p>
+            </a>
+          </li>
         </ul>
-      </section>
+      </div>
     </section>
   </div>
 
