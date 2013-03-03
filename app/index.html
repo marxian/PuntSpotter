@@ -13,18 +13,15 @@
     <link rel="stylesheet" href="components/jquery.mobile-1.2.0/jquery.mobile-1.2.0.css">
     <link rel="stylesheet" href="styles/main.css">
 
-
+    <!-- build:js scripts/scripts.js -->
+    <script src="components/underscore/underscore.js"></script>
     <script src="components/jquery-1.8.2/index.js"></script>
     <script src="components/jquery.mobile-1.2.0/jquery.mobile-1.2.0.js"></script>
     <script src="components/angular/angular.js"></script>
     <script src="components/angular-resource/angular-resource.js"></script>
-    <script src="components/jquery-mobile-angular-adapter-1.2.1-SNAPSHOT/index.js"></script>
-
-    
+    <!--<script src="components/jquery-mobile-angular-adapter-1.2.1-SNAPSHOT/index.js"></script>-->
     <script src="scripts/app.js"></script>
     <script src="scripts/controllers/punt_browser.js"></script>
-
-    <!-- build:js scripts/scripts.js -->
     <!-- endbuild -->
   </head>
   <body data-ng-app="puntSpotter">
@@ -37,16 +34,15 @@
       <script src="components/json3/lib/json3.min.js"></script>
     <![endif]-->
 
-    <!-- Add your site or application content here -->
-    <div data-ng-controller="PuntBrowser">
-    <section id="browse" data-role="page" data-theme="a" class="punt-browser" data-ngm-pagebeforeshow="loadPunts()">
+  <div data-ng-controller="PuntBrowser">
+    <section id="browse" data-role="page" data-theme="a" class="punt-browser">
       <header data-role="header"> 
         <h1>Norfolk Punts</h1>
       </header>
       <div data-role="content">
         <ul data-role="listview" data-inset="true">
           <li data-ng-repeat="punt in punts">
-            <a href="#">
+            <a data-ng-href="#view" ng-click="choosePunt(punt)">
               <img data-ng-src="{{punt.image_data_uri}}"/>
               <h2>{{punt.name}}</h2>
               <p>{{punt.builder.name}}</p>
@@ -55,8 +51,16 @@
         </ul>
       </div>
     </section>
+  
+    <section id="view" data-role="page" data-theme="a" class="punt-viewer">
+      <header data-role="header"> 
+        <h1>{{punt.name}}</h1>
+      </header>
+      <div data-role="content">
+        <h2>{{punt.name}}</h2>
+      </div>
+    </section>
   </div>
-
     <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
     <script>
       var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];

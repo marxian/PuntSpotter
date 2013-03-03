@@ -8,7 +8,7 @@ describe('Controller: PuntBrowser', function () {
   var PuntBrowser, scope, $httpBackend;
 
   // Initialize the controller a mock scopeand a mock http backend
-  beforeEach(inject(function (_$httpBackend_, $rootScope, $controller) {
+  beforeEach(inject(function (_$httpBackend_, $rootScope, $controller, puntService) {
     $httpBackend = _$httpBackend_;
     $httpBackend.expectGET('data/punts.json').respond([
       {name: 'Grebe'},
