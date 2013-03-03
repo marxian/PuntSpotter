@@ -1,9 +1,9 @@
 'use strict';
-
+/* global describe, beforeEach, inject, it, expect */
 describe('Controller: PuntBrowser', function () {
 
   // load the controller's module
-  beforeEach(module('puntSpotter'));
+  beforeEach(module('puntspotterApp'));
 
   var PuntBrowser, scope, $httpBackend;
 
@@ -22,7 +22,6 @@ describe('Controller: PuntBrowser', function () {
   }));
 
   it('should attach a list of punts to the scope', function () {
-    
     $httpBackend.flush();
     expect(scope.punts.length).toBe(3);
   });
